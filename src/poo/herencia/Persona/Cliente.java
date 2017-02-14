@@ -1,6 +1,6 @@
 
 package poo.herencia.Persona;
-//descargado de git-para githut-- poeta-que paso poeta
+//termino la practica poeta
 /**
  *
  * @author Cibert_Poet
