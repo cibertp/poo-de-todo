@@ -1,6 +1,6 @@
 
 package poo.herencia.Persona;
-
+//descargado de git
 /**
  *
  * @author Cibert_Poet
